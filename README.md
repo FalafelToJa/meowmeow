@@ -1,2 +1,2 @@
-https://github.com/falafeltoja/meowmeow/raw/master/chooose.mp3
+https://github.com/falafeltoja/meowmeow/raw/master/choose.mp3
 
